@@ -1,0 +1,139 @@
+
+
+h1{text-align:center;
+    color: white;
+	font-weight:bold;
+	font-size:32px;
+	font-family:Segoe UI,Tahoma,Genva,sans-serif;
+	margin-bottom:15px;
+	}
+	h2{
+        color: white;
+		font-weight:bold;
+		font-size:22px;
+		font-family:Segoe UI,Tahoma,Genva,sans-serif;
+		margin-bottom:10px;
+		}
+	html{
+font-size:28px;}
+body{
+	background:#1c1c1c;
+    color: white;
+min-height:100vh;
+max-width:800px;
+margin:0auto;
+padding:1rem;
+border-left:1px soli #333;
+border-right:1px soli #333;
+border-collapse:separate ;
+box-shadow: 0 10px 30px rgba(0,0,0,0,4);
+}
+
+th,td,caption,table{
+	border:1px solid #333;
+	font-family: 'courier New', courier,monospace;
+	border-collapse:separte;
+	padding:0.5rem;
+}
+caption{
+    
+    background-color: #111;
+    color: #f5a900;
+    font-family: "Segoe Ul",sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    padding: 25px 15px 20px;
+    text-transform: uppercase;
+}
+caption span{
+	display: block;
+	  color: white;
+	  font-size: 20px;
+	  font-style: italic;
+	  margin-bottom: 5px;
+	  text-transform: none;
+  }
+  thead th {
+    
+    background-color: #111;
+    color: #f5a900;
+    font-size: 20px;
+    padding:10px;
+   border-bottom: 2px solid #f5a900 ;
+}
+thead td {
+    
+    vertical-align: top;
+    padding:20px;
+   border-bottom: 1px solid #f5a900 ;
+}
+strong {
+    color: #f5a900;
+    font-family: "Segoe Ul",sans-serif;
+    font-size: 18px;
+}
+.p11{ 
+    color:rgb(255, 4, 4);
+    font-size: 18px;
+   margin: 7px 0 0;
+   line-height: 1.4;
+}
+.Price {
+    width: 80px;
+    color: #f5a900;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: right;
+    vertical-align: middle;
+}
+
+tbody tr:hover{
+    background-color: whitesmoke;
+}
+ table{background-color: #1c1c1c;}
+tfoot td {
+    
+    background-color: #181818;
+    color: white;
+    font-size: 16px;
+    padding:18px 20px;
+  font-weight: bold;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: content;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+
+}
+nav ul:hover{
+    background-color: rgba(122, 7, 7, 0);}
+nav ul li{
+    display: inline-block;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+        padding-bottom: 8px;
+
+}
+
+P{
+    color: white;
+}
+a:hover{
+    background-color: rgb(255, 255, 255);}
+    h1:hover{
+        background-color:#00E5FF ;}
+        h2:hover{
+            background-color:#00E5FF ;}
+        p:hover{
+            background-color: #00E5FF;}
+            a{
+                color: blue;
+            }
+        
+    
